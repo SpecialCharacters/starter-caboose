@@ -1,6 +1,6 @@
 Date/Time					What happened
 
-March 1 2016 4:36PM				Added jRating + fixed pathes in them
+March 1 2016 5:01PM				Added a viewer rating widget
 March 1 2016 4:19PM				Added Caboose
 March 1 2016 4:10PM				Enabled hooks
 March 1 2016 4:03PM				Added README.txt
